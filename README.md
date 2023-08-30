@@ -2,4 +2,4 @@
 
 ## Dynamic Causal Discovery
 
-![Download PDF](out/_time_final_agg2_.pdf)
+![An example of dynamic causal graph](out/final_agg_parcorr.pdf)
