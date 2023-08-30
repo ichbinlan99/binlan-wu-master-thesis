@@ -2,9 +2,59 @@
 
 ## Dynamic Causal Discovery
 
-![An example of dynamic causal graph](out/_time_final_agg2_.pdf)
+<img src="out/_time_final_agg2_.pdf" alt="An example of dynamic causal graph" width=400/>
 
 ## Data
 
 We used two data sources. You can find the syntehtic data set perturbation and creation from [glocal graph generation](https://github.com/ichbinlan99/binlan-wu-master-thesis/blob/main/synthetic_data/data_generator_no_act.py) and [perturbation](https://github.com/SCAI-Lab/dyn_graph_syn/tree/adapted)
+
+## Installation
+
+(1) Create your Virtual Environment
+
+<pre>
+conda create -n shape_correspondence
+conda activate shape_correspondence
+</pre>
+
+(2) Install requirements
+
+<pre>
+pip install -r requirements.txt
+</pre>
+
+## Dynamic Causal Discovery
+PCMCI
+[\[repo\]](https://github.com/pvnieo/DPFM) [\[paper\]](http://www.lix.polytechnique.fr/~maks/papers/DPFM_3DV2021.pdf) 
+
+PCMCI+
+[\[repo\]](https://github.com/pvnieo/DPFM) [\[paper\]](http://www.lix.polytechnique.fr/~maks/papers/DPFM_3DV2021.pdf) 
+
+LPCMCI
+[\[repo\]](https://github.com/pvnieo/DPFM) [\[paper\]](http://www.lix.polytechnique.fr/~maks/papers/DPFM_3DV2021.pdf) 
+
+Dynotears
+[\[repo\]](https://github.com/quantumblacklabs/causalnex/blob/develop/causalnex/structure/dynotears.py) [\[paper\]](http://www.lix.polytechnique.fr/~maks/papers/DPFM_3DV2021.pdf)
+
+|  Data | Location  |
+|---|---|
+|  Synthetic Global |  https://github.com/ichbinlan99/binlan-wu-master-thesis/blob/main/synthetic_data/data_generator_no_act.py |
+|  Synthetic Perturbation | https://github.com/SCAI-Lab/dyn_graph_syn/tree/adapted  |
+| Urodynamics | not public available |
+
+<img src="out/ps.png" alt="An example of dynamic causal graph" width=400/>
+
+<img src="out/gt.png" alt="An example of dynamic causal graph" width=400/>
+
+Implementation of the graph aggregation can be find in [\[graph_pert\]]([https://github.com/pvnieo/DPFM](https://github.com/ichbinlan99/binlan-wu-master-thesis/tree/graph_pert))
+One can learn and validate the above models with notebooks in the following section 
+
+### Graph perturbation 
+
+
+
+
+
+
+
 
