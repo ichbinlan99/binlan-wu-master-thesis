@@ -9,8 +9,8 @@
 (1) Create your Virtual Environment
 
 <pre>
-conda create -n shape_correspondence
-conda activate shape_correspondence
+conda create -n graphical_modelling
+conda activate graphical_modelling
 </pre>
 
 (2) Install requirements
