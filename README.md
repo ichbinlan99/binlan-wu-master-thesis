@@ -48,15 +48,12 @@ Here's an exmaple of a perturbation sampler, a more detailed explaination can be
 <img src="out/gt.png" alt="An example of dynamic causal graph" width=400/>
 
 Implementation of the graph aggregation can be find in [\[graph_pert\]]([https://github.com/pvnieo/DPFM](https://github.com/ichbinlan99/binlan-wu-master-thesis/tree/graph_pert))
-One can learn and validate the above models with notebooks in the following section 
-
-### Graph Perturbation 
-
-### Graph Aggregation
 
 The results from the models are saved in:
     
     out/.
+    
+One can learn and validate the above models with notebooks in the following section 
 
 ## Notebooks
 
