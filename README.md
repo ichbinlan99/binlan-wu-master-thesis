@@ -6,5 +6,5 @@
 
 ## Data
 
-We used two data sources. You can find the syntehtic data set perturbation and creation from [source](https://github.com/SCAI-Lab/dyn_graph_syn/tree/adapted)
+We used two data sources. You can find the syntehtic data set perturbation and creation from [glocal graph generation]([https://github.com/SCAI-Lab/dyn_graph_syn/tree/adapted] and [perturbation](https://github.com/SCAI-Lab/dyn_graph_syn/tree/adapted)
 
