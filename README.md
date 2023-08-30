@@ -2,4 +2,4 @@
 
 ## Dynamic Causal Discovery
 
-![Alt Text](out/_time_final_agg.pdf)
+![Alt Text](out/_time_final_agg2_.pdf)
