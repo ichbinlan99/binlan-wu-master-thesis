@@ -62,25 +62,20 @@ The results from the models are saved in:
 
 We created several notebooks to showcase the models and to create figures seen in the report.
 
+- [graph perturbation simulation_notebook](https://github.com/ichbinlan99/binlan-wu-master-thesis/blob/graph_pert/graph%20perturbation%20simulation.ipynb):\
+randomly define the number of nodes and edges and generata a DAG. Perturbations are applied with predefined number of actions
 
-- [graph perturbation simulation_notebook](graph-perturbation-simulation.ipynb):\
-All pretrained models are loaded and evaluated. 
-In the end the accumulated geodesic error graph is created.
+- [synthetic causal discovery_notebook](https://github.com/ichbinlan99/binlan-wu-master-thesis/blob/synthetic/synthetic_data.ipynb):\
+Overview of methods on synthetic data with perturbations 
 
-- [cfm_example_notebook](cfm_example_notebook.ipynb):\
-Overview of CFM calculation with pyFM methods and evaluation of the calculated maps.
+- [real data causal discovery notebook](https://github.com/ichbinlan99/binlan-wu-master-thesis/blob/scai/scai-causal-discovery.ipynb):\
+overview of methods on real data
 
-- [dpfm_example_notebook](dpfm_example_notebook.ipynb):\
-Training and evaluation with FM and CFM of DPFM models.
+- [causal effect estimation notebook](https://github.com/ichbinlan99/binlan-wu-master-thesis/blob/scai/causal%20effect%20estimation.ipynb):\
+causal effect estimation using the global grap we ovtained in the end
 
-- [unsup_example_notebook](unsup_example_notebook.ipynb):\
-Visualizations of unsupervised models.
-
-- [dpcfm_example_notebook](dpcfm_example_notebook.ipynb):\
-Training and evaluation of a dpcfm model.
-
-- [pyfm_example_notebook](pyfm_example_notebook.ipynb):\
-The example script from the pyFM package, showcasing some functionalities of the package.
+- [data preprocessing notebook](https://github.com/ichbinlan99/binlan-wu-master-thesis/blob/scai/data%20processing.ipynb):\
+overview of the data processing step
 
 
 ## Acknowledgements
